@@ -1,3 +1,5 @@
+# Author: Andy Wei 
+
 # OS syscall functionality 
     #include <stdio.h>
     #include <stdlib.h>
